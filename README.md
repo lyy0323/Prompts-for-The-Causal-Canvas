@@ -8,6 +8,7 @@ This guide will walk you through the setup process to get the most out of Causal
 
 Register and log in to your Lucien account.
 
+You can find docs for Lucien here: https://forum.ai4.science/t/hackathon-documents-hub. It includes complete information such as Lucien registration and installation, MCP Server development guide, hackathon FAQ, etc.
 
 ### Step 1: Configure System Prompt
 
