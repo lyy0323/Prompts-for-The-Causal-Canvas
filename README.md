@@ -52,7 +52,7 @@ You have the option to have the Agent generate LaTeX code. Since Lucien currentl
 
 ## Necessary MCP Tools
 
-- Please **disable** the `filesystem` MCP tool (if you has manually installed it from MCP Store), as it may produce unexceptable behavior like creating fake files.
+- Please **disable** the `filesystem` MCP tool (if you has manually installed it from MCP Store), as it may produce unexpectable behavior like creating fake files.
 - `shell_execute` is used for commands like creating files and folders, etc. 
 - `txyz_search_scholar` is used for searching literatures on the web.
 
